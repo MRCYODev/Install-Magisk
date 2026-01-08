@@ -76,7 +76,7 @@ adb reboot fastboot
 Your phone should now be in Fastboot mode.
 
 ## Flash the Patched Boot Image
-Flash the patched image
+
 ```
 fastboot flash boot magisk_patched_boot.img
 ```
