@@ -81,4 +81,4 @@ Flash the patched image
 fastboot flash boot magisk_patched_boot.img
 ```
 
-# 🎉 Done!
+Done, you rooted your Device ❤️🎉
